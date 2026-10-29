@@ -16,6 +16,8 @@ A few of my own projects:
 
 [**Thought Catcher**](https://github.com/d-kwong/thought-catcher): I’m building a place to capture notes, tasks, and events, then organize the same activities through Todo, Kanban, Noteboard, and Calendar views.
 
+<a href="https://github.com/d-kwong/thought-catcher"><img src="https://raw.githubusercontent.com/d-kwong/thought-catcher/master/docs/media/capture-and-organize.gif" width="320" alt="Capturing a note, adding a label, and turning it into a task in Thought Catcher"></a>
+
 At Georgia Tech, I'm also working with teams:
 
 - **Graption, with Big Data Big Impact:** I'm developing speech tone and emotion classifiers alongside an on-device pipeline for speech segmentation and transcription.
