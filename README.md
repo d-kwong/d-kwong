@@ -14,7 +14,7 @@ A few of my own projects:
 
 <a href="https://github.com/d-kwong/recurrent-racer"><img src="https://raw.githubusercontent.com/d-kwong/recurrent-racer/main/docs/media/compact/50007-chase.gif" width="320" alt="A trained racing agent driving a generated track"></a>
 
-[**macOS TodoList**](https://github.com/d-kwong/macOS-TodoList): I built a SwiftUI Kanban board to explore custom drag-and-drop interactions and saving tasks locally.
+[**Thought Catcher**](https://github.com/d-kwong/thought-catcher): I’m building a place to capture notes, tasks, and events, then organize the same activities through Todo, Kanban, Noteboard, and Calendar views.
 
 At Georgia Tech, I'm also working with teams:
 
