@@ -2,7 +2,7 @@
 
 I'm deeply interested in how machines learn to make decisions, understand speech, and interact with the world around them. I'm also a CS major at Georgia Tech, studying Artificial Intelligence and Embedded Devices.
 
-I like figuring things out by building them, from learning agents to the geometry behind a rendered image.
+I like figuring things out by building them.
 
 A few of my own projects:
 
@@ -13,6 +13,10 @@ A few of my own projects:
 [**Recurrent Racer**](https://github.com/d-kwong/recurrent-racer): I built a Unity racing environment and a reinforcement learning agent that learns to steer and control the throttle on generated tracks.
 
 <a href="https://github.com/d-kwong/recurrent-racer"><img src="https://raw.githubusercontent.com/d-kwong/recurrent-racer/main/docs/media/compact/50007-chase.gif" width="320" alt="A trained racing agent driving a generated track"></a>
+
+[**3D Hand Tracker**](https://github.com/d-kwong/3D-Hand-Tracker): I’m experimenting with drawing in 3D using a webcam, MediaPipe hand landmarks, and a small PyTorch model that estimates my fingertip’s position.
+
+<a href="https://github.com/d-kwong/3D-Hand-Tracker"><img src="https://raw.githubusercontent.com/d-kwong/3D-Hand-Tracker/main/docs/media/draw-and-rotate.gif" width="320" alt="Webcam hand landmarks beside a 3D fingertip estimate and a sketch rotating in the drawing workspace"></a>
 
 [**Thought Catcher**](https://github.com/d-kwong/thought-catcher): I’m building a place to capture notes, tasks, and events, then organize the same activities through Todo, Kanban, Noteboard, and Calendar views.
 
